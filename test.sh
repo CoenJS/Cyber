@@ -1,5 +1,5 @@
 #!/bin/sh
 # Sample script
 
-echo "Test"
+echo "Testing Testing"
 
